@@ -4,7 +4,7 @@ Riova Poster is a private tool that publishes the owner's own videos to his own 
 
 ## Connect TikTok
 
-<https://www.tiktok.com/v2/auth/authorize/?client_key=sbawa0bcx1nnlez5pa&scope=user.info.basic,video.publish,video.upload&response_type=code&redirect_uri=https%3A%2F%2Friova-studios.github.io%2Fcallback.html&state=riova>
+<https://www.tiktok.com/v2/auth/authorize/?client_key=sbawa0bcx1nnlez5pa&scope=user.info.basic,video.publish,video.upload&response_type=code&redirect_uri=https%3A%2F%2Friova-studios.github.io%2Fcallback.html&state=riova&disable_auto_auth=1>
 
 ## Legal
 
