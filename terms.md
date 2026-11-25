@@ -1,6 +1,11 @@
+---
+layout: page
+title: Terms of Service
+---
+
 # Riova Poster – Terms of Service
 
-Last updated: 13 November 2026
+Last updated: 25 November 2026
 
 ## About this app
 
