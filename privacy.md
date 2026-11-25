@@ -1,6 +1,11 @@
+---
+layout: page
+title: Privacy Policy
+---
+
 # Riova Poster – Privacy Policy
 
-Last updated: 13 November 2026
+Last updated: 25 November 2026
 
 ## About this app
 
